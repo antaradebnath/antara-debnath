@@ -1,0 +1,6 @@
+{
+  "name": "Art & AI Portfolio",
+  "description": "Creative portfolio of Antara Dev Nath, blending Fine Arts with Machine Learning and Software Engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
